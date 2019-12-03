@@ -13,16 +13,10 @@ Para rodar basta modificar o ip de acesso ao servidor na Classe Client. Modelo p
 
 Necessita:
 
--- Java
--- JDBC
--- Protobuff
--- PostgresSQL
+Java, JDBC, Protobuff e PostgresSQL
 
 EQUIPE:
--- Daniel Humberto
--- Pedro Igor
--- Romeu Camurça
--- Silmara Torres
+Daniel Humberto, Pedro Igor, Romeu Camurça e Silmara Torres
 
 # AGRADECIMENTOS:
-Marcos Paulo Fernandes / Denys Maciel
+Marcos Paulo Fernandes e Denys Maciel
