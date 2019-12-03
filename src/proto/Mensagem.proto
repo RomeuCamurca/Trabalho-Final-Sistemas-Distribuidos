@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+message Mensagem {
+    int32 type = 1;
+    int32 id = 2;
+    string obfReference = 3;
+    string methodId = 4;
+    bytes arguments = 5;
+}

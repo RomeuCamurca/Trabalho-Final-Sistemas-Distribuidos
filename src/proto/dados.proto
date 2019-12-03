@@ -1,0 +1,28 @@
+syntax = "proto3";
+
+message Funcionario {
+	string nome = 1;
+	string cpf = 2;
+	string datanascimento = 3;
+	int32 idade = 4;
+	string sexo = 5;
+	string endereco = 6;
+	float salario = 7;
+}
+
+message Funcionarios {
+	repeated Funcionario funcionario = 1;
+}
+
+message Consulta {
+	string cpf = 1;
+}
+
+message Resposta {
+        string resultado = 1;
+}
+
+message Atualizar {
+	string cpf = 1;
+	Funcionario funcionario = 2;
+}
