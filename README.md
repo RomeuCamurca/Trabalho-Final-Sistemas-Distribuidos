@@ -9,7 +9,7 @@ Sockets UDP
 
 Protocol Buffer 3 Classes protos -Dados -Mensagem.
 
-Para rodar basta modificar o ip de acesso ao servidor na Classe Client. Modelo padrão do Eclipse.
+Para rodar basta modificar o ip de acesso ao servidor na Classe FuncionarioProxy. Modelo padrão do Eclipse.
 
 Necessita:
 
